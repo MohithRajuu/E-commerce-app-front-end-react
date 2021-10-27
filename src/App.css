@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@200&family=Mandali&display=swap');
+
+body{
+    padding : 20px 60px;
+    font-family: 'Mandali', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
